@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Abadious/manyangti/issues"
   },
-  "homepage": "https://github.com/Abadious/manyangti#readme"
+  "homepage": "https://github.com/Abadious/manyangti#readme",
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  }
 }
